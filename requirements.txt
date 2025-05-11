@@ -1,0 +1,9 @@
+langgraph
+groq
+tavily-python
+fastapi
+uvicorn
+streamlit
+python-multipart
+PyPDF2
+python-dotenv
