@@ -6,7 +6,7 @@
 **ChatPDFBot** is an AI-powered chatbot that lets you upload a PDF file and ask questions based on its content.  
 It uses **FastAPI**, **Streamlit**, and **Docker** to provide a seamless chat interface.
 
-![alt text]([screenshot\ChatPDFBot_user_interface.png](./screenshot/ChatPDFBot_user_interface.png)
+![ChatPDFBot UI](./screenshot/ChatPDFBot_user_interface.png)
 
 ---
 
